@@ -85,7 +85,7 @@ netron==4.6.0
 notebook==6.4.12
 numba==0.51.2
 numexpr==2.7.1
-numpy==1.18.5
+numpy==1.22.0
 nvidia-ml-py3==7.352.0
 oauthlib==3.1.0
 onnx==1.15.0
